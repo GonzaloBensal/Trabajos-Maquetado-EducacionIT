@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es-ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html" title="Volver al inicio">Inicio</a>
+        <a href="contacto.html" title="contacto">Contacto</a>
+        <a href="nosotros.html" title="nosotros">Nosotros</a>
+    </nav>
+    <header>
+        <h1>Contacto</h1>
+        <h3>Envianos tu inquietud, ¡nosotros nos encargamos!</h3>
+    </header>
+    <main>
+        <form action="./php/codigo.php" method="post" enctype="multipart/form-data">
+            <label>Adjuntá lo que quieras: <input type="file" name="archivo" multiple></label>
+            <br>
+            <label for="Opciones">Seleccioná una opción:<select name="opc" id="Opciones">
+                <option value="opc1" selected>Opción 1</option>
+                <option value="opc2">Opción 2</option>
+                <option value="opc3">Opción 3</option>
+            </select></label>
+            <br>
+            <label for="Nombre">* Nombre completo: <input type="text" required placeholder="Nombre" name="nombre" id="Nombre" autofocus></label>
+            <br>
+            <label for="Edad">Edad:<input type="number" min="18" max="100" name="edad" required placeholder="Edad" id="Edad"></label>
+            <br>
+            <label for="Email">* Email: <input type="email" name="email" id="Email" required placeholder="email@dominio.com"></label>
+            <br>
+            <label for="Consulta">* Tu consulta:<br> <textarea required style="width : 400px; height : 100px" name="consulta" value="consulta"> </textarea></label>
+            <br>
+            <input type="checkbox" name="suscripcion" value="suscribir">Suscribite a nuestro newsletter y enterate de las últimas novedades
+            <br>
+            <span style="color:red">* El campo es obligatorio</span>
+            <br>
+            <input type="submit" name="enviar" value="enviar">
+        </form>
+
+    </main>
+    <footer>
+        <nav>
+            <span>Copyright 2021</span>
+            <a href="mailto: gonzalojulian_fb@hotmail.com?subject=Contacto"
+                title="Vinculo a correo electrónico">gonzalojulian_fb@hotmail.com</a>
+            <a href="https://github.com/GonzaloBensal" title="Vinculo a Github GonzaloBensal"
+                target="_blank">Github</a>
+            <a href="https://www.instagram.com/" title="instagram" target="_blank">Instagram</a>
+            <a href="www.facebook.com" title="facebook" target="_blank">Facebook</a>
+        </nav>
+    </footer>
+</body>
+</html>

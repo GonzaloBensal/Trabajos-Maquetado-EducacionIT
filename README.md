@@ -10,7 +10,7 @@
 
 ### Enlace a carpeta
 
-- [Trabajo Final Integrador: Maqueta _ServiceCloud_ con __inicio, contacto y servicios__ (secciones accesibles)](https://github.com/GonzaloBensal/EducacionIT-Telecom/tree/main/M%C3%B3dulo-Introductorio/Pagina-web-curso)
+- [Trabajo Final Integrador: Maqueta _ServiceCloud_ con __inicio, contacto y servicios__ (secciones accesibles)](https://github.com/GonzaloBensal/Trabajos-Maquetado-EducacionIT/tree/main/Laboratorio-Final-Integrador-ServiceCloud-webpage)
 
 ### Enlace a web
 - [Trabajo Final Integrador](https://gonzalobensalit.000webhostapp.com/index.html)
@@ -19,7 +19,7 @@
 
 ### Enlace a carpeta
 
-- [Trabajo Final Clase 2: Maqueta _EducaciónIT_ con __inicio y servicios__ (secciones no accesibles)](https://github.com/GonzaloBensal/EducacionIT-Telecom/tree/main/M%C3%B3dulo-Introductorio/EducacionIT%20-%20Laboratorio%20Final%20Modulo%202)
+- [Trabajo Final Clase 2: Maqueta _EducaciónIT_ con __inicio y servicios__ (secciones no accesibles)](https://github.com/GonzaloBensal/Trabajos-Maquetado-EducacionIT/tree/main/Laboratorio-Final-Clase-2-EducacionIT-webpage)
 
 
 # Descripción
